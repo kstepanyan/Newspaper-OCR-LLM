@@ -18,7 +18,7 @@ Uses LLM to iterate through a collection of scanned pages of historical multi-co
 ## How to run
 
 1. Regiter and get an OpenAI API Key;
-2. Configure input and putput folders;
+2. Configure input and output folders;
 3. Add scanned page images as JPG;
 4. Run the Cell on Jupyter notebook.
 
